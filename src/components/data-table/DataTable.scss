@@ -1,0 +1,21 @@
+.component-DataTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.component-DataTable thead tr {
+    border-bottom: 2px solid #ccc;
+}
+
+.component-DataTable thead tr th {
+    text-align: left;
+    padding: 12px;
+}
+
+.component-DataTable tbody tr {
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.component-DataTable tbody tr td {
+    padding: 12px;
+}
